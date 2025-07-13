@@ -7,7 +7,7 @@ A web-based multi-session AI coding assistant built powered by [Ollama](https://
 - ✅ Chat with an LLM using streaming responses
 - ✅ Multiple chat sessions with history
 - ✅ Clean UI with sidebar chat management
-- ✅ Integrated with Ollama REST API
+- ✅ Integrated with Ollama
 - ✅ System prompt customization for coding tasks
 
 ## 🛠️ Tech Stack
